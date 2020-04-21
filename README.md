@@ -1,5 +1,11 @@
 # Cloudflare Workers Internship Application: Full-Stack
 
+## Deployed project: https://simmi.pseudorandom-world.workers.dev/
+Thank you Cloudfare for this learning opportunity! Can't wait to hear from you. 
+
+## Screenshot below for my version:
+
+
 ## What is it?
 
 Using Cloudflare Workers, you'll deploy an application that will randomly send users to one of two webpages. This project will teach you how to write applications with the Cloudflare Workers API, manage and develop them using the command-line tool Wrangler, and deploy them to the free workers.dev deployment playground.
