@@ -4,7 +4,7 @@
 Thank you Cloudfare for this learning opportunity! Can't wait to hear from you. 
 
 ## Screenshot below for my version:
-
+![Screenshot](./screenshot.PNG "Screenshot")
 
 ## What is it?
 
