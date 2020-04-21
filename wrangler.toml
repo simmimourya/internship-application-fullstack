@@ -1,6 +1,6 @@
-name = "{{project-name}}"
-type = "javascript"
-account_id = ""
+name = "simmi"
+type = "webpack"
+account_id = "5b182e649b7cf4d1189b4be503655dd8"
 workers_dev = true
 route = ""
 zone_id = ""
